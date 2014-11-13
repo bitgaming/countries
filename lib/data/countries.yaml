@@ -59,6 +59,7 @@ AE:
   longitude: 54 00 E
   name: United Arab Emirates
   names:
+  - U.A.E.
   - United Arab Emirates
   - Vereinigte Arabische Emirate
   - Émirats Arabes Unis
@@ -3214,6 +3215,8 @@ GB:
   longitude: 2 00 W
   name: United Kingdom
   names:
+  - Great Britain
+  - Great Britain and Northern Ireland
   - United Kingdom
   - Vereinigtes Königreich
   - Royaume-Uni
@@ -5072,6 +5075,7 @@ KR:
   longitude: 127 30 E
   name: Korea, Republic of
   names:
+  - Korea Rep
   - Korea (South)
   - Südkorea
   - Corée du Sud
@@ -5971,6 +5975,7 @@ MK:
   longitude: 22 00 E
   name: Macedonia, the Former Yugoslav Republic Of
   names:
+  - Republic of Macedonia
   - Macedonia
   - Mazedonien
   - Macédoine
