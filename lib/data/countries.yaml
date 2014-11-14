@@ -733,6 +733,7 @@ BA:
   longitude: 18 00 E
   name: Bosnia and Herzegovina
   names:
+  - Bosnia & Herzegovina
   - Bosnia and Herzegovina
   - Bosnien und Herzegowina
   - Bosnie et Herzégovine
@@ -5024,6 +5025,7 @@ KP:
   longitude: 127 00 E
   name: Korea, Democratic People's Republic Of
   names:
+  - North Korea
   - Korea (North)
   - Nordkorea
   - Corée du Nord
@@ -5076,6 +5078,7 @@ KR:
   name: Korea, Republic of
   names:
   - Korea Rep
+  - South Korea
   - Korea (South)
   - Südkorea
   - Corée du Sud
@@ -6841,6 +6844,7 @@ NL:
   longitude: 5 45 E
   name: Netherlands
   names:
+  - Holland
   - Netherlands
   - Niederlande
   - Pays-Bas
